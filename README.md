@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dragifire!
 - 👀 I’m interested in Minecraft modding!
-- 🌱 I’m currently learning to use Fabric!
-- 💞️ I’m looking to collaborate on Minecraft mods and modpacks!
+- 🌱 I’m currently studying software dev!
 - 📫 How to reach me: dragifire on Discord!
 
 <!---
